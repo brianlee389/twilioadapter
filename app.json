@@ -1,0 +1,6 @@
+{
+  "name": "Twilio Adapter Server",
+  "description": "Twilio adapter server",
+  "repository": "https://github.com/heroku/python-getting-started",
+  "keywords": ["python", "flask" ],
+}
