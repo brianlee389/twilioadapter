@@ -102,7 +102,7 @@ tornado==3.1.1
 tweepy==3.3.0
 
 unity-lens-photos==1.0
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==1.11.4
 wcwidth==0.1.6
 websocket-client==0.37.0
