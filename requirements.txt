@@ -83,7 +83,7 @@ pyzmq==14.0.1
 rauth==0.7.1
 redis==2.10.3
 reportlab==3.0
-requests==2.2.1
+requests==2.20.0
 requests-oauthlib==0.4.2
 scipy==0.13.3
 semantic-version==2.5.0
